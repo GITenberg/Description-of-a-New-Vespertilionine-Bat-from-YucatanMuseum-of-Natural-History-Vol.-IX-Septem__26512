@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32057
     wikipedia: http://en.wikipedia.org/wiki/Joel_Asaph_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26512#Description-of-a-New-Vespertilionine-Bat-from-YucatanMuseum-of-Natural-History-Vol.-IX-Septem_
 gutenberg_bookshelf: Animals-Wild-Mammals
 gutenberg_issued: '2008-09-03'
 gutenberg_type: Text
